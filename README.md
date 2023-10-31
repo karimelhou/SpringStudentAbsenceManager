@@ -21,8 +21,7 @@ A comprehensive web application built with Spring Boot to manage and monitor the
 ### Installation
 
 1. **Clone the Repository**
-   
-git clone https://github.com/karimelhou/SpringStudentAbsenceManager.git
+   git clone https://github.com/karimelhou/SpringStudentAbsenceManager.git
 
 2. **Navigate to the Project Directory**
 
